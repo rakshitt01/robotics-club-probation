@@ -20,7 +20,13 @@ It helps robots perform tasks using instructions and logic.
 
 \- Basic Programming Logic
 
-\- Robotics Automation
+\- Robotics Automation ## Importance of Programming
 
 
+
+Programming helps control motors, sensors and robotic systems.
+
+
+
+It is useful for automation, problem-solving and developing intelligent robots.
 
